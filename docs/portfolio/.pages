@@ -4,7 +4,7 @@ order: asc
 arrange:
   - index.md
   - 01-primera-entrada.md
-  - practica_1.ipynb
-  - practica_2.ipynb
-  - practica_3.ipynb
+  - Practico_3.ipynb
+  - Practico_4.ipynb
+  - Practico_5.ipynb
   - plantilla.md
