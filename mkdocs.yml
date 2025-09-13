@@ -11,6 +11,8 @@ plugins:
   - git-revision-date-localized:
       fallback_to_build_date: true
   - glightbox
+  - mkdocs-jupyter:
+      execute: false   # o true si quieres que se ejecuten en cada build
 markdown_extensions:
   - admonition
   - attr_list
