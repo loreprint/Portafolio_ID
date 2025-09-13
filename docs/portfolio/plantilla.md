@@ -81,13 +81,6 @@ def train(
 
 ### Imágenes con glightbox y atributos
 
-Imagen directa (abre en lightbox):
-
-![Diagrama del flujo](../assets/placeholder.png){ width="420" }
-
-Click para ampliar (lightbox):
-
-[![Vista previa](../assets/placeholder.png){ width="280" }](../assets/placeholder.png)
 
 ### Enlaces internos y relativos
 
