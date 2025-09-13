@@ -35,6 +35,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build MkDocs site
+        env:
+          JUPYTER_PLATFORM_DIRS: "1"  # <— silencia el DeprecationWarning de Jupyter
+
         run: mkdocs build --strict --site-dir _site
 
       - name: Upload artifact
