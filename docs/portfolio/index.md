@@ -10,8 +10,7 @@ Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas p�
 
 - Plantilla: [plantilla.md](plantilla.md)
 - Primera entrada: [01-primera-entrada.md](01-primera-entrada.md)
-Practicos: 
-- [Practico 3] (portafolio/Practico_1.ipynb)
-- [Practico 4] (portafolio/Practico_2.ipynb)
-- [Practico 5] (portafolio/Practico_3.ipynb)
 
+## Prácticss
+- [Práctica 3: Exploración Iris](portfolio/Practico_3.ipynb)
+- [Práctica 4: EDA Iris](portfolio/Practico_4.ipynb)
