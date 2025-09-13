@@ -2,7 +2,7 @@ name: deploy-mkdocs
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master ]   # así corre en cualquiera de las dos
   workflow_dispatch:
 
 permissions:
@@ -22,6 +22,8 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true   # <— clave para evitar el “Get Pages site failed”
 
       - uses: actions/setup-python@v5
         with:
