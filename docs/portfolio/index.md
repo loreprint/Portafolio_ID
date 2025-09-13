@@ -10,4 +10,8 @@ Bienvenido a las entradas del portafolio. Us√° la plantilla para crear nuevas p√
 
 - Plantilla: [plantilla.md](plantilla.md)
 - Primera entrada: [01-primera-entrada.md](01-primera-entrada.md)
+Practicos: 
+- [Practico 3] (portafolio/practico1.ipynb)
+- [Practico 4] (portafolio/practico2.ipynb)
+- [Practico 5] (portafolio/practico3.ipynb)
 
