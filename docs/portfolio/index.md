@@ -12,5 +12,5 @@ Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas p�
 - Primera entrada: [01-primera-entrada.md](01-primera-entrada.md)
 
 ## Prácticss
-- [Práctica 3: Exploración Iris](portfolio/Practico_3.ipynb)
-- [Práctica 4: EDA Iris](portfolio/Practico_4.ipynb)
+- [Práctica 3: Exploración Iris](docs/portfolio/Practico_3.ipynb)
+- [Práctica 4: EDA Iris](docs/portfolio/Practico_4.ipynb)
