@@ -1,6 +1,13 @@
 site_name: "Portfolio"
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: deep purple   # color principal (barra, botones, links)
+      accent: purple         # color de acento (hover, resaltados)
+  font:
+    text: "Nunito"
+    code: "Fira Code"
   language: es
   features:
     - navigation.sections
