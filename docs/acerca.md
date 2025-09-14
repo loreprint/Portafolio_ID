@@ -7,7 +7,7 @@ date: 2025-01-01
 
 Breve presentación personal, intereses y objetivos para este curso.
 
-Soy Lornea Pinzón, me encanta aprender cada dia mas y mas, tengo intereses en especial hacia temas artisticos como la musica, pero sobre todo amo aprender con datos por lo que me encanta el tema de la tecnologia y como cada dato se convierte en informacion relevante para tomar desciciones y ser la respuesta a distintas problematicas, estudio ciencia de datos en Colombia y estoy de intercambio en Uruguay,  el mundo es mucho mas grande de lo que he imaginado y con los datos nos damos cuenta que podemos conocer cosas facscinantes sea donde sea, cada cosa tienen una historia que contar y que merece ser vista. Para este curso mi objetivo es concoer mucho mas sobre mi area, tener un poco mas de practica en la programación y desarrollar más habilidades para el area de ciencia de datos.
+Soy Lornea Pinzón, me encanta aprender cada día más y más. Tengo intereses en especial hacia temas artísticos como la música, pero sobre todo amo aprender con datos, por lo que me encanta el tema de la tecnología y cómo cada dato se convierte en información relevante para tomar decisiones y ser la respuesta a distintas problemáticas. Estudio Ciencia de Datos en Colombia y estoy de intercambio en Uruguay. El mundo es mucho más grande de lo que he imaginado y con los datos nos damos cuenta de que podemos conocer cosas fascinantes sea donde sea; cada cosa tiene una historia que contar y que merece ser vista. Para este curso, mi objetivo es conocer mucho más sobre mi área, tener un poco más de práctica en la programación y desarrollar más habilidades para el área de Ciencia de Datos.
 
 
 ## Habilidades
