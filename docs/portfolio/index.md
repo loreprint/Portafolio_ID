@@ -16,5 +16,5 @@ Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas p�
 - [Práctica 4: EDA Iris](Practico_4.ipynb)
 - [Práctica 5: Missing Data Detective - Fill in the Blanks](Practico_5.ipynb)
 - [Práctica 6: Feature Scaling & Anti-Leakage Pipeline - Exploración Abierta](Practico_6.ipynb)
-- [Práctica 7: Detectar y Corregir Sesgo con Fairlearn](Practico_7.ipynb)
+- [Práctica 7: Detectar y Corregir Sesgo con Fairlearn](Practico_7.ipynb) 
 
