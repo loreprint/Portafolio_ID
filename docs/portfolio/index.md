@@ -11,7 +11,7 @@ Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas p�
 - Plantilla: [plantilla.md](plantilla.md)
 - Primera entrada: [01-primera-entrada.md](01-primera-entrada.md)
 
-## Prácticss
+## Prácticos
 - [Práctica 3: Exploración Iris](Practico_3.ipynb)
 - [Práctica 4: EDA Iris](Practico_4.ipynb)
 - [Práctica 5: Missing Data Detective - Fill in the Blanks](Practico_5.ipynb)
