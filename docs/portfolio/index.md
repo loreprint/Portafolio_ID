@@ -18,5 +18,7 @@ Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas p�
 - [Práctica 6: Feature Scaling & Anti-Leakage Pipeline - Exploración Abierta](Practico_6.ipynb)
 - [Práctica 7: Detectar y Corregir Sesgo con Fairlearn](Practico_7.ipynb)
 - [Práctica 8: Feature Engineering con Pandas](Practico_8.ipynb)
-- [Práctica 9: Encoding Avanzado y Target Encoding - Fill in the Blanks](Practico_9.ipynb) 
+- [Práctica 9: Encoding Avanzado y Target Encoding - Fill in the Blanks](Practico_9.ipynb)
+- [Práctica 10: Feature Selection](Practico_10.ipynb) 
+
 
